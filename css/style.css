@@ -1,0 +1,20 @@
+.top-nav-collapse {
+	background: linear-gradient(to right, #00d2ff, #928dab);
+}
+
+.spacing {
+	margin-top: 8rem;
+}
+
+.center-text {
+	text-align: center;
+	font-weight: bold;
+}
+
+.centerThem {
+	text-align: center;
+}
+
+body {
+	font-family: 'Merriweather Sans', sans-serif;
+}
